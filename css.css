@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 247, 231);
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3 {
+    color: #333;
+}
+a {
+    color: #014a01;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    margin-bottom: 10px;
+}
+button {
+    background-color: #1e502f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #00b35a;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+section {
+    padding: 20px;
+}
+details {
+    background-color: rgb(255, 240, 209);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
